@@ -1,0 +1,9 @@
+body { 
+  background-color:#120e02;
+}
+main {
+  margin: auto;
+  max-width: 80ch;
+  font-family: 'Garamond', Garamond, serif;
+  color: #e8bc43
+}
