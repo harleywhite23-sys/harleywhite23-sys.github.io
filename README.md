@@ -1,2 +1,2 @@
-# Hearthstone-Neocities
-For development of the Hearthstone neocities website!
+# Hearthstone-DC
+For development of the Hearthstone website!
